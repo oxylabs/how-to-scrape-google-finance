@@ -60,7 +60,7 @@ For the next step, we’ll be creating a function that accepts a `BeautifulSoup`
 
 ```python
 def extract_finance_information_from_soup(soup_of_the_whole_page):
-#Put data extraction here
+# Put data extraction here.
 
    listing = {}
 
