@@ -1,6 +1,6 @@
 # How to Scrape Google Finance with Python
 
-[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/google-news-scraper/refs/heads/main/Scrape%20Google%20data%20with%20Web%20Scraper%20API.png)](https://oxylabs.io/products/scraper-api/serp/google?utm_source=877&utm_medium=affiliate&groupid=877&utm_content=how-to-scrape-google-finance-github&transaction_id=102c8d36f7f0d0e5797b8f26152160)
+[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/google-news-scraper/refs/heads/main/Scrape%20Google%20data%20with%20Web%20Scraper%20API.png)](https://oxylabs.io/products/scraper-api/serp/google?utm_source=github&utm_medium=referral&utm_content=how-to-scrape-google-finance&utm_campaign=banner&groupid=877)
 
 <p align="left">
   <a href="https://dashboard.oxylabs.io"><img src="https://img.shields.io/badge/%F0%9F%9A%80_Get_Started-FF6B35?style=for-the-badge" alt="Get started"></a>
@@ -10,7 +10,7 @@
   <a href="https://www.youtube.com/@oxylabs"><img src="https://img.shields.io/badge/%E2%96%B6%EF%B8%8F_YouTube-FF0000?style=for-the-badge" alt="YouTube"></a>
 </p>
 
-Follow this Python tutorial to learn how to scrape public data from Google Finance, such as **stock titles**, **pricing**, and **price changes in percentages**. We'll show how you can use Oxylabs' [Web Scraper API](https://oxylabs.io/products/scraper-api/web) for this task, which requires a subscription or a free trial. You can claim a **1-week free trial** by registering on the [Oxylabs dashboard](https://dashboard.oxylabs.io/).
+Follow this Python tutorial to learn how to scrape public data from Google Finance, such as **stock titles**, **pricing**, and **price changes in percentages**. We'll show how you can use Oxylabs' [Web Scraper API](https://oxylabs.io/products/scraper-api/web?utm_source=github&utm_medium=referral&utm_content=how-to-scrape-google-finance&groupid=877) for this task, which requires a subscription or a free trial. You can claim a **1-week free trial** by registering on the [Oxylabs dashboard](https://dashboard.oxylabs.io/).
 
 - [Step 1: Install prerequisite libraries](#step-1-install-prerequisite-libraries)
 - [Step 2: Build the core structure](#step-2-build-the-core-structure)
@@ -27,7 +27,7 @@ In your terminal, run this `pip` command:
 ```bash
 pip install requests bs4
 ```
-You may skip Beautiful Soup altogether and instead use [Custom Parser](https://oxylabs.io/features/custom-parser), which is built into the API.
+You may skip Beautiful Soup altogether and instead use [Custom Parser](https://oxylabs.io/features/custom-parser?utm_source=github&utm_medium=referral&utm_content=how-to-scrape-google-finance&groupid=877), which is built into the API.
 
 ## Step 2: Build the core structure
 
